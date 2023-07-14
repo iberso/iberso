@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Iverson</h1>
-<h4 align="center">A Junior in web dev, mobile app dev, and UI/UX design.</h3>
+<h4 align="center">A Junior in web dev, mobile app dev, and UI / UX design.</h3>
 
 </br>
 <h3>👤 About Me</h3>
