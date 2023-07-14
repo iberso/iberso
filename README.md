@@ -9,7 +9,8 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 
 <img src="https://github.com/iberso/iberso/assets/74914280/8ee36078-16de-4460-90e9-25b3e3535712" height="70">
 
-- Bootstraps
+<img src="https://github.com/iberso/iberso/assets/74914280/4206c67d-0449-4e88-9623-74e7aa10502a" height="70">
+
 - Node JS
 - Express JS
 - Dart
