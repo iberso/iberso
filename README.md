@@ -5,11 +5,11 @@
 
 I'm excited to have you visit my GitHub profile. I am a Computer Science Major Student with a passion for mobile app development, website development, and UI/UX design. My journey in the world of coding began started back in first high school when I decided to try create my own website and it turns out it taught me a lot about web development and technology behind it.
 
-<h3>Technologies and Tools That I Use</h3>
+<h3>Technologies and Tools</h3>
 
 <img src="https://github.com/iberso/iberso/assets/74914280/9ad99f05-ac24-4389-b681-e26d2f95a139" height="60">
 &nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/4206c67d-0449-4e88-9623-74e7aa10502a" height="60">
+<img src="https://github.com/iberso/iberso/assets/74914280/74914280/753e14ef-459e-4afa-b72f-defa8015215d" height="60">
 &nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/0d5c20b5-9f1c-4cc3-a929-6fb011a144e5" height="60">
 &nbsp
