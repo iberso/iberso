@@ -19,12 +19,14 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 <img src="https://github.com/iberso/iberso/assets/74914280/2f7d9c87-cbea-498c-8ea8-4730faa5e4d7" height="60">
 </span>
 
+<span>
+<img src="https://github.com/iberso/iberso/assets/74914280/e8fdf723-fba2-4ecd-80b0-68f8b2a40e3c" height="60">
+</span>
+
+
 <h1>Under Construction</h1>
 
-- Node JS
-- Express JS
-- Dart
-- Flutter
+
 <!--
 **iberso/iberso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
