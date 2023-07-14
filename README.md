@@ -20,10 +20,6 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 &nbsp&nbsp&nbsp&nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/b139251b-a5b5-482a-a8b6-b1b1449aa6f2" height="60">
 
-<h3>Connect with Me</h3>
-<a href="https://www.instagram.com/ivers_k/" target=blank><img src="https://github.com/iberso/iberso/assets/74914280/8da98680-1714-4edb-806e-9a54a7bc1a38" height="60"></a>
-
-
 <h1>Under Construction</h1>
 
 <!--
