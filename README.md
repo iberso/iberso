@@ -7,25 +7,15 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 
 <h3>Technologies and Tools That I Use</h3>
 
-<span>
 <img src="https://github.com/iberso/iberso/assets/74914280/8ee36078-16de-4460-90e9-25b3e3535712" height="60">
-</span>
-
-<span>
+&nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/4206c67d-0449-4e88-9623-74e7aa10502a" height="60">
-</span>
-
-<span>
+&nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/2f7d9c87-cbea-498c-8ea8-4730faa5e4d7" height="60">
-</span>
-
-<span>
+&nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/84b40ac0-ef6a-4ce9-a56f-9bdaf6bcb596" height="60">
-</span>
-
 
 <h1>Under Construction</h1>
-
 
 <!--
 **iberso/iberso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
