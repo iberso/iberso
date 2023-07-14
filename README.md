@@ -1,6 +1,8 @@
-<h1>About Me</h1>
+<h1>Hello there! 👋 I'm Iverson</h1>
+<h3>A Junior in Web Dev, Mobile App Dev, and UI/UX Design.</h3>
 
-Hello there! 👋 I'm Iverson, and I'm excited to have you visit my GitHub profile. I am a Computer Science Major Student with a passion for mobile app development, website development, and UI/UX design. My journey in the world of coding began started back in first high school when I decided to try create my own website and it turns out it taught me a lot about web development and technology behind it.
+<h3>About Me</h3>
+I'm excited to have you visit my GitHub profile. I am a Computer Science Major Student with a passion for mobile app development, website development, and UI/UX design. My journey in the world of coding began started back in first high school when I decided to try create my own website and it turns out it taught me a lot about web development and technology behind it.
 
 <!--
 **iberso/iberso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
