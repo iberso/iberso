@@ -6,6 +6,7 @@
 <h3>About Me</h3>
 
 I'm excited to have you visit my GitHub profile. I am a Computer Science Major Student with a passion for mobile app development, website development, and UI/UX design. My journey in the world of coding began started back in first high school when I decided to try create my own website and it turns out it taught me a lot about web development and technology behind it.
+
 </br>
 <h3>Technologies and Tools</h3>
 
@@ -17,7 +18,7 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 &nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/84b40ac0-ef6a-4ce9-a56f-9bdaf6bcb596" height="60">
 
-</br></br>
+</br>
 <h3>Connect with Me</h3>
 
 <h1>Under Construction</h1>
