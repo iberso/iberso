@@ -15,7 +15,7 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 &nbsp&nbsp&nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/a1b77ef2-58c2-4df3-9e7b-b9781114c895" height="60">
 &nbsp&nbsp&nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/84b40ac0-ef6a-4ce9-a56f-9bdaf6bcb596" height="60">
+<img src="https://github.com/iberso/iberso/assets/74914280/84b40ac0-ef6a-4ce9-a56f-9bdaf6bcb596" height="55">
 &nbsp&nbsp&nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/5191700b-15c0-4fb2-8ff4-2c65cab4b83c" height="60">
 &nbsp&nbsp&nbsp
