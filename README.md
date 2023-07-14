@@ -7,7 +7,7 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 
 <h3>Technologies and Tools That I Use</h3>
 
-<img src="https://github.com/iberso/iberso/assets/74914280/8ee36078-16de-4460-90e9-25b3e3535712" height="60">
+<img src="https://github.com/iberso/iberso/assets/74914280/9ad99f05-ac24-4389-b681-e26d2f95a139" height="60">
 &nbsp
 <img src="https://github.com/iberso/iberso/assets/74914280/4206c67d-0449-4e88-9623-74e7aa10502a" height="60">
 &nbsp
