@@ -24,7 +24,6 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 <img src="https://github.com/iberso/iberso/assets/74914280/414beeb1-5610-486e-9781-ae12ca432289" height="60">
 &nbsp&nbsp&nbsp&nbsp
 
-</br></br></br>
 <h1 align="center">🚧 Under Construction 🚧</h1>
 <h1 align="center">
 <img src="https://media.tenor.com/rEUfrrBlzl4AAAAi/minecraft-adeventure-time.gif" alt="minecraft jake working" height="200" width="200">
