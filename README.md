@@ -26,7 +26,9 @@ I'm excited to have you visit my GitHub profile. I am a Computer Science Major S
 
 </br></br></br>
 <h1 align="center">🚧 Under Construction 🚧</h1>
-<img src="https://media.tenor.com/rEUfrrBlzl4AAAAi/minecraft-adeventure-time.gif" alt="minecraft jake working" height="80" width="80">
+<h1 align="center">
+<img src="https://media.tenor.com/rEUfrrBlzl4AAAAi/minecraft-adeventure-time.gif" alt="minecraft jake working" height="150" width="150">
+</h1>
 <!--
 **iberso/iberso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
