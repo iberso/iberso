@@ -4,7 +4,7 @@
 </br>
 <h3>👤 About Me</h3>
 
-I'm excited to have you visit my GitHub profile. I am a Computer Science Major Student with a passion for mobile app development, website development, and UI/UX design. My journey in the world of coding began started back in first high school when I decided to try create my own website and it turns out it taught me a lot about web development and technology behind it.
+I am excited to have you visit my GitHub profile. I am a Computer Science Major Student with a passion for mobile app development, website development, and UI/UX design. My journey in the world of coding began started back in first high school when I decided to try create my own website and it turns out it taught me a lot about web development and technology behind it.
 
 <h3>🛠️ Technologies and Tools</h3>
 
