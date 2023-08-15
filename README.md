@@ -8,23 +8,25 @@ I am excited to have you visit my GitHub profile. I am a Computer Science Major 
 
 <h3>🛠️ Technologies and Tools</h3>
 
-<img src="https://github.com/iberso/iberso/assets/74914280/9ad99f05-ac24-4389-b681-e26d2f95a139" height="60">
+<img src="https://github.com/iberso/iberso/assets/74914280/9ad99f05-ac24-4389-b681-e26d2f95a139" height="50">
 &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/0d5c20b5-9f1c-4cc3-a929-6fb011a144e5" height="60">
+<img src="https://github.com/iberso/iberso/assets/74914280/0d5c20b5-9f1c-4cc3-a929-6fb011a144e5" height="50">
 &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/a1b77ef2-58c2-4df3-9e7b-b9781114c895" height="60">
+<img src="https://github.com/iberso/iberso/assets/74914280/a1b77ef2-58c2-4df3-9e7b-b9781114c895" height="50">
 &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/84b40ac0-ef6a-4ce9-a56f-9bdaf6bcb596" height="55">
+<img src="https://github.com/iberso/iberso/assets/74914280/84b40ac0-ef6a-4ce9-a56f-9bdaf6bcb596" height="45">
 &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/5191700b-15c0-4fb2-8ff4-2c65cab4b83c" height="60">
+<img src="https://github.com/iberso/iberso/assets/74914280/5191700b-15c0-4fb2-8ff4-2c65cab4b83c" height="50">
 &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/b139251b-a5b5-482a-a8b6-b1b1449aa6f2" height="60">
+<img src="https://github.com/iberso/iberso/assets/74914280/b139251b-a5b5-482a-a8b6-b1b1449aa6f2" height="50">
 
 <h3>📝 Currently Learning</h3>
-<img src="https://github.com/iberso/iberso/assets/74914280/414beeb1-5610-486e-9781-ae12ca432289" height="55">
+<img src="https://github.com/iberso/iberso/assets/74914280/414beeb1-5610-486e-9781-ae12ca432289" height="45">
 &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/984337fd-1b4a-4f97-a5a7-a7849afa77bb" height="65">
+<img src="https://github.com/iberso/iberso/assets/74914280/984337fd-1b4a-4f97-a5a7-a7849afa77bb" height="55">
 &nbsp&nbsp&nbsp&nbsp
+
+![LeetCode Stats](https://leetcode.card.workers.dev/ivers_k?theme=nord&font=baloo&extension=null)
 
 <h1 align="center">🚧 Under Construction 🚧</h1>
 <h1 align="center">
