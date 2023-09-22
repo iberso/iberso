@@ -23,8 +23,6 @@ I am excited to have you visit my GitHub profile. I am a Computer Science Major 
 <h3>📝 Currently Learning</h3>
 <img src="https://github.com/iberso/iberso/assets/74914280/414beeb1-5610-486e-9781-ae12ca432289" height="45">
 &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/iberso/iberso/assets/74914280/984337fd-1b4a-4f97-a5a7-a7849afa77bb" height="55">
-&nbsp&nbsp&nbsp&nbsp
 
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/ivers_k?theme=nord&font=baloo&extension=null) -->
 
